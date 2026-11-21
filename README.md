@@ -18,17 +18,29 @@ Computer Engineering student at Mumbai University, class of 2028. I build full-s
 
 ## Stack
 
-**Languages:** Python, Java, C, JavaScript, TypeScript
+**Languages**
 
-**Frontend:** React, Next.js, React Native (Expo), Tailwind CSS
+![Python, Java, C, JavaScript, TypeScript](https://skillicons.dev/icons?i=py,java,c,js,ts)
 
-**Backend:** Node.js, Express, Spring Boot, FastAPI
+**Frontend**
 
-**AI/ML:** PyTorch, RAG pipelines, LLM agents (DeepSeek, Ollama)
+![React, Next.js, Tailwind CSS](https://skillicons.dev/icons?i=react,nextjs,tailwind)
 
-**Data:** PostgreSQL, Supabase, MySQL, MongoDB
+**Backend**
 
-**Tools:** Git, GitHub, Linux
+![Node.js, Express, Spring Boot, FastAPI](https://skillicons.dev/icons?i=nodejs,express,spring,fastapi)
+
+**AI / ML**
+
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+
+**Data**
+
+![PostgreSQL, Supabase, MySQL, MongoDB](https://skillicons.dev/icons?i=postgres,supabase,mysql,mongodb)
+
+**Tools**
+
+![Git, GitHub, Linux](https://skillicons.dev/icons?i=git,github,linux)
 
 ## Stats
 
@@ -37,5 +49,5 @@ Computer Engineering student at Mumbai University, class of 2028. I build full-s
 
 ## Contact
 
-- Email: akifk123786@gmail.com
-- Resume: [Google Drive](https://drive.google.com/file/d/1Kq_lG4fbo8PgzYZpIBpKIwRm2Z-xiD2R/view?usp=sharing)
+[![Email](https://img.shields.io/badge/Email-akifk123786@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:akifk123786@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Google_Drive-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Kq_lG4fbo8PgzYZpIBpKIwRm2Z-xiD2R/view?usp=sharing)
